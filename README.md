@@ -1,3 +1,4 @@
-Link to Tableau Visualization for EDA Life Expectancy Project : 
+Link to Tableau Profile : 
 
-https://public.tableau.com/views/LifeExpectancyVisualization_15808765038900/Dashboard1?:display_count=y&publish=yes&:origin=viz_share_link
+https://public.tableau.com/profile/megan4310#!/?newProfile=&activeTab=0
+
