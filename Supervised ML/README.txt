@@ -1,4 +1,3 @@
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/mdibble2/Projects/blob/master/Supervised%20ML/Graduation_Rates_Model_Comparison.ipynb/master)
 
 
 Documentation for 'College Completion' data
